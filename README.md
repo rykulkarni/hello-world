@@ -1,2 +1,10 @@
 # hello-world
-Starting with a tradition: Hello World
+Hello World.. Starting with tradition.
+
+!...........!
+ !.........!
+  !.......!
+   !.....!
+    !...!
+     !.!  
+      !
